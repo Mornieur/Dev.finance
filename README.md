@@ -10,7 +10,7 @@ Dev.finance$ is a simple finance application designed to calculate income and ex
 
 ## How to Use
 
-1. Access the live demo [here](https://mornieur.github.io/Dev.finance/).
+1. Access the live demo [here]([https://mornieur.github.io/Dev.finance/](https://dev-finance-sable.vercel.app/).
 
 2. Enter a description for your income or expense in the designated input field.
 
