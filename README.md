@@ -14,8 +14,9 @@
 <br />
 
 <div align='center'>
-  <strong>Dev.finance$ is a simple finance application designed to calculate income and expenses, helping users keep track of their financial transactions. It is built using JavaScript, HTML, and CSS.</h1>
+  <strong>Dev.finance$ is a simple finance application designed to calculate income and expenses, helping users keep track of their financial transactions. It is built using JavaScript, HTML, and CSS.
 </strong>
+</div>
 
 ## Features
 
