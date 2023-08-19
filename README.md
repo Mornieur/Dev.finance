@@ -1,7 +1,7 @@
 # Dev.finance$
 
 <div align='center'>
-  <h1 >💲 Welcome to Dev.Finance Project!</h1>
+  <h1>💲 Welcome to Dev.Finance Project!</h1>
 </div>
 
 <br />
@@ -11,7 +11,11 @@
   <img src="./assets/dev-finance.png" alt='project image' width='600'  />
 </div>
 
-Dev.finance$ is a simple finance application designed to calculate income and expenses, helping users keep track of their financial transactions. It is built using JavaScript, HTML, and CSS.
+<br />
+
+<div align='center'>
+  <strong>Dev.finance$ is a simple finance application designed to calculate income and expenses, helping users keep track of their financial transactions. It is built using JavaScript, HTML, and CSS.</h1>
+</strong>
 
 ## Features
 
