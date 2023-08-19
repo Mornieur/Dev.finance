@@ -1,5 +1,3 @@
-# Dev.finance$
-
 <div align='center'>
   <h1>💲 Welcome to Dev.Finance Project!</h1>
 </div>
